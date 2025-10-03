@@ -1,5 +1,4 @@
-[02/10, 21:50] Zé Maromba: descrição
-[02/10, 21:51] Zé Maromba: import tkinter as tk
+import tkinter as tk
 from PIL import Image, ImageTk
  
 def MostrarDescricao():
